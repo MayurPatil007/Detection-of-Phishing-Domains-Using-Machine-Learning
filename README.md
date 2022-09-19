@@ -1,2 +1,1 @@
-# Detection-of-Phishing-Domains-Using-Machine-Learning
-Detection of Phishing Domains Using Machine Learning
+# Phishing-Page-Detection-Using-ML-and-DL
